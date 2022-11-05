@@ -4,12 +4,12 @@
   "language": "en",
   "loading": "random",
   "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "title": "Cliphive🐝",
+  "description": "Cliphive - Hive of Web Resources",
+  "keywords": "online resource, freebies, tools , list, developer resources, front-end resources, community sites, designers, utilities, learning resources, operations, network security, node.js",
   "theme": "Light",
   "appTheme": "App",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">A total of ${total} sites are included</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
@@ -27,7 +27,7 @@
       "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "Here are up to <b>${total}</b> quality websites to help you work, study and live",
   "simThemeHeight": 350,
   "simThemeAutoplay": true,
   "sideThemeImages": [
@@ -55,7 +55,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
+  "showLanguage": false,
   "showRate": true,
   "mirrorList": []
 }
