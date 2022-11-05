@@ -1,8 +1,8 @@
 [
   {
-    "name": "站内",
+    "name": "Search",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
-    "placeholder": "站内搜索",
+    "placeholder": "Site Search",
     "blocked": false,
     "isInner": true
   },
