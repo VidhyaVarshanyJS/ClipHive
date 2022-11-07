@@ -57,5 +57,11 @@
   ],
   "showLanguage": false,
   "showRate": true,
-  "mirrorList": []
+  "mirrorList": [
+    {
+      "url": "https://forms.gle/sL6pavcMoLXGffZE6",
+      "icon": "",
+      "name": "Contribute"
+    }
+  ]
 }
