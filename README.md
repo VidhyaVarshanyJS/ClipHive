@@ -1,10 +1,10 @@
 
 <p align="center">
   <a href="https://nav3.cn/?g">
-    <img src="src/assets/logo.png" width="130" />
+    <img src="https://user-images.githubusercontent.com/76642252/200378813-2f6e0cd7-8d8c-476e-8140-7465a3277ae2.png" width="130" />
   </a>
   <br />
-  <b>Discovery Navigation</b>
+  <b>ClipHO</b>
   <p align="center">A purely static, powerful navigation website that supports SEO and online editing, I hope you will like it</p>
   <p align="center">Built-in collection of up to 800+ high-quality websites to help you work, study and live</p>
   <p align="center">
