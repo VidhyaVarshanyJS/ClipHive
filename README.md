@@ -4,9 +4,9 @@
     <img src="https://user-images.githubusercontent.com/76642252/200379508-06fac1f0-5baf-4a84-a2ac-b6a3963a6876.png" width="130" />
   </a>
   <br />
-  <b>ClipHO</b>
+  <b>ClipHive</b>
   <p align="center"></p>
-  <p align="center">Built-in collection of up to 800+ high-quality websites to help you work, study and live</p>
+  <p align="center">Wonderful collection of bookmarks, free developers resources, online tools, helpful websites, and digital freebies gathered over time to make researching easier.e</p>
   <p align="center">
     <a href="README_zh-CN.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
@@ -24,142 +24,41 @@
 
 ## Preview
 **Themes**
+**If you're unfamiliar with ClipHive, let me say:**
 
-- [Sim online preview](https://nav3.cn/#/sim)
-- [Light online preview](https://nav3.cn/#/light)
-- [Side online preview](https://nav3.cn/#/side)
-- [App online preview](https://nav3.cn/#/app)
+Everything I use throughout my workday is stored in this archive. Many helpful pieces of data are compiled here. For me, it has served as a treasure trove of information that I frequently revisit.
 
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/3.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/4.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/5.png)
+**To what end?**
+Really, it's a must-read for everyone. This place has everything somebody might ever want. To be completely forthright, though, its primary concentration is on streamlining the educational, learning, tool, and content creation processes.
 
+**Vision**
+In an effort to benefit as many people as possible, we have catalogued, indexed, and archived as much relevant content as we can find, both for the benefit of present-day users and future generations. The world would be a better place if more people followed our lead and placed others' needs ahead of their own.
 
+**Mission**
 
-
+To make this journey of archiving resources a long lastiing one and to be accessible by anyone
 
 
-## Features
-`Discovery Navigation The idea is to make it simple and convenient without relying on back-end services, without complicated configuration and database configuration concepts, so it can be used out of the box.
+**Guidelines**
 
-
-- 🍰 Built-in 800+utility sites.
-- 🍰 Support SEO.
-- 🍰 It is completely static and provides automatic deployment functions.
-- 🍰 The trigeminal tree has a clear structure and clear classification.
-- 🍰 Support one website to associate multiple URLs
-- 🍰 The coexistence of beauty and simplicity is no longer the era of killing Matt.
-- 🍰 Completely open source, easy to customize.
-- 🍰 Support multiple browsing modes and innovation.
-- 🍰 Support footprint memory.
-- 🍰 Support mobile browsing.
-- 🍰 Support search query.
-- 🍰 Support custom engine search.
-- 🍰 A variety of theme switching.
-- 🍰 Support dark mode.
-- 🍰 Support background management, no need to deploy.
-- 🍰 Support import from Chrome bookmarks
-
-
-## Deploy
-Its as easy as counting numbers "3 2 1" that simple!
-
-#### Method one (github-pages free)
-1、Fork the current project.
-
-2、[https://github.com/settings/tokens](https://github.com/settings/tokens) apply for a token, check the corresponding permissions, if you don’t understand, select all, copy and save the token.
-
-3、https://github.com/username/nav/settings/secrets/actions/new  Create a new application token, name fill in TOKEN (All are uppercase).
-
-4、Go to https://github.com/username/nav/actions click "Green Button"
-
-5、Be sure to modify the project configuration file [nav.config.ts](nav.config.ts)
-
-6、After 5 minutes, open https://username.github.io/nav , you will see a very powerful navigation website.
-
-### Method 2 (Free Vercel)
-The steps are the same as the first method, except that the fourth step is not needed.
-For specific use, follow the steps [https://github.com/apps/vercel](https://github.com/apps/vercel)
-
-
-### Method 3 (Free Netlify)
-[https://www.netlify.com/](https://www.netlify.com/)
+There are only a few basic guidelines that must be followed for this endeavor:
+Do not spam; do not distribute irrelevant or useless information; take responsibility for your actions.
 
 
 
+## Contribute
 
-## Backstage
-Modify the routing address to `system`, such as: https://www.nav3.cn/#/light Change to https://www.nav3.cn/#/system
+**Contributions are welcome!**
 
-
-## Bookmark import
-
-Support importing from Chrome bookmarks (WebKit kernel should be supported~), it will automatically detect navigation that meets the three-level classification, and all others will be set as unclassified:
-
-![](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/import.png)
-
-The browser opens chrome://bookmarks/ to export the bookmarks to get the html file, and then import it from the background of the navigation website.
-
-
-
-
-## Upgrade
-Before upgrading, please back up the `data` folder and `nav.config.ts` in the root directory, and replace them after the upgrade.
-Click the `Watch` button in the upper right corner to track the version upgrade for the first time.
-
-
-## Update log
-[CHANGELOG](https://github.com/xjh22222228/nav/releases)
-
-
-
-
-
-
-## Development and construction
-``` bash
-# Download
-git clone --depth=1 https://github.com/xjh22222228/nav.git
-
-cd nav
-
-# Installation dependencies
-yarn
-
-# Start
-yarn start
-
-# Build
-yarn build
-```
-
-
-
-## contribute
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
-
-<a href="https://github.com/YutHelloWorld">
-  <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/JJJTHuang">
-  <img src="https://avatars3.githubusercontent.com/u/22817432?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/Fechin">
-  <img src="https://avatars1.githubusercontent.com/u/2541482?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/setdiaoyong">
-  <img src="https://avatars1.githubusercontent.com/u/62551864?s=460&v=4" width="30px" height="30px" />
-</a>
-
-
-
+Thank you for your [contribution](https://github.com/vidhyavarshanyjs/Cliphive/issues), men.
 
 
 
 ## Suggest
-If you have any functional suggestions, you can initiate an [issue](https://github.com/xjh22222228/nav/issues), Thank you.
+If you have any functional suggestions, you can initiate an [issue](https://github.com/vidhyavarshanyjs/Cliphive/issues), Thank you.
+
+**(or)**
+Please provide legitimate and well-reasoned reasons for any modifications or comments you make, and submit them via this [](link), if you see anything that doesn't make sense or doesn't seem quite right.
 
 ## LICENSE
 [MIT](./LICENSE)
