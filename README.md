@@ -41,10 +41,8 @@ To make this journey of archiving resources a long lastiing one and to be access
 
 There are only a few basic guidelines that must be followed for this endeavor:
 - Do not spam
-- do not distribute irrelevant or useless information
-- take responsibility for your actions.
-
-
+- Do not distribute irrelevant or useless information
+- Take responsibility for your actions.
 
 ### Contribute
 
