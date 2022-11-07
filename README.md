@@ -22,9 +22,7 @@
 <br />
 
 
-## Preview
-**Themes**
-**If you're unfamiliar with ClipHive, let me say:**
+## If you're unfamiliar with ClipHive, let me say:
 
 Everything I use throughout my workday is stored in this archive. Many helpful pieces of data are compiled here. For me, it has served as a treasure trove of information that I frequently revisit.
 
