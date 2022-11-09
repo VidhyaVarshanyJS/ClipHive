@@ -10,7 +10,6 @@
   <p align="center">
     <a href="README_zh-CN.md">
     </a>
-   ![Colorful Modern Music 3D Logo (200 × 200 px)](https://user-images.githubusercontent.com/76642252/200834629-c8ace24d-f944-4c33-8212-b4a97f8e3a2a.png)
 
   </p>
 </p>
