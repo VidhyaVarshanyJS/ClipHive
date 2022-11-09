@@ -32,24 +32,24 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://images.unsplash.com/photo-1486114070427-c298798fb866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTI4NzN8MHwxfGNvbGxlY3Rpb258MTUzfDg1NjA3OXx8fHx8Mnx8MTY0MTI3ODU3MA&ixlib=rb-1.2.1&q=80&w=400",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://mmtstock.com/wp-content/uploads/2017/10/P42806392.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "sideThemeHeight": 350,
+  "sideThemeHeight": 314,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://w.wallhaven.cc/full/k7/wallhaven-k7k72m.jpg",
       "url": "",
       "width": null,
       "height": null
