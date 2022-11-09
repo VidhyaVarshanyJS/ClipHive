@@ -9,7 +9,6 @@
   <p align="center">Wonderful collection of bookmarks, free developers resources, online tools, helpful websites, and digital freebies gathered over time to make researching easier</p>
   <p align="center">
     <a href="README_zh-CN.md">
-      <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
    
   </p>
