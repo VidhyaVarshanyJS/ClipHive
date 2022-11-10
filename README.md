@@ -42,14 +42,14 @@ There are only a few basic guidelines that must be followed for this endeavor:
 
 **Contributions are welcome!**
 
-Thank you for your [contribution](https://github.com/vidhyavarshanyjs/Cliphive/issues), men.
+
+
+Thank you for your [contribution](https://github.com/vidhyavarshanyjs/Cliphive/issues) or [form](https://docs.google.com/forms/d/e/1FAIpQLSdJqjjb-8O2h6Dvi1VoXOWcrXHT0HcxE0Y96PKpyuGd9-6Bqw/viewform)
 
 
 ### Suggest
 If you have any functional suggestions, you can initiate an [issue](https://github.com/vidhyavarshanyjs/Cliphive/issues), Thank you.
 
-**(or)**
-Please provide legitimate and well-reasoned reasons for any modifications or comments you make, and submit them via this [](link), if you see anything that doesn't make sense or doesn't seem quite right.
 
 ### LICENSE
 [MIT](./LICENSE)
