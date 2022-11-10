@@ -18,7 +18,7 @@
 
 ###  If you're unfamiliar with ClipHive, let me say:
 
-Everything I use throughout my workday is stored in this archive. Many helpful pieces of data are compiled here. For me, it has served as a treasure trove of information that I frequently revisit.
+Everything used throughout a workday is stored in this archive. Many helpful pieces of data are compiled here. For me, it has served as a treasure trove of information that frequently revisit.
 
 ### To what end?
 Really, it's a must-read for everyone. This place has everything somebody might ever want. To be completely forthright, though, its primary concentration is on streamlining the educational, learning, tool, and content creation processes.
