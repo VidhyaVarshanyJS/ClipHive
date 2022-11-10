@@ -6,7 +6,7 @@
   <br />
   <b>ClipHive</b>
   <p align="center"></p>
-  <p align="center">Wonderful collection of bookmarks, free developers resources, online tools, helpful websites, and digital freebies gathered over time to make researching easier</p>
+  <p align="center">Wonderful collection of bookmarks🔖, free developers resources🧵, online tools🛠️, helpful websites🕸️, and digital freebies🆓 gathered over time to make researching easier</p>
   <p align="center">
     <a href="README_zh-CN.md">
     </a>
