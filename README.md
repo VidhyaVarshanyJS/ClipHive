@@ -6,7 +6,17 @@
   <br />
   <b>ClipHive</b>
   <p align="center"></p>
-  <p align="center">Wonderful collection of bookmarks🔖, free developers resources🧵, online tools🛠️, helpful websites🕸️, and digital freebies🆓 gathered over time to make researching easier</p>
+  <p align="center">
+  The open new generation navigation platform aims to gather excellent websites from all over the world and explore a wider world in the Internet;
+exist "ClipHive", you can easily discover, learn, and share more useful or interesting things.
+  
+  
+  Wonderful collection of bookmarks🔖, free developers resources🧵, online tools🛠️, helpful websites🕸️, and digital freebies🆓 gathered over time to make researching easier</p>
+  <p align="center">
+  Explore a wider world for your
+In this information-based world, you may be overwhelmed by the massive amount of information; while trying to absorb it for fear of missing it, you may miss more; the existence
+of "Chain of Allure" is to solve this problem for you; in Here, you can browse the crystallization of all kinds of wisdom in the world;
+while enriching your vision, you can mark or share your favorite sites, so as to provide constructive reference for more people who dig information. </p>
   <p align="center">
     <a href="README_zh-CN.md">
     </a>
