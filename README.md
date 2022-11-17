@@ -13,7 +13,7 @@ exist "ClipHive", you can easily discover, learn, and share more useful or inter
   
  <p align="center">  Wonderful collection of bookmarks🔖, free developers resources🧵, online tools🛠️, helpful websites🕸️, and digital freebies🆓 gathered over time to make researching easier</p>
 
- <h3align="center"> Explore a wider world </h3>
+ <h3 align="center"> Explore a wider world </h3>
   <p align="center"> In this information-based world, you may be overwhelmed by the massive amount of information; while trying to absorb it for fear of missing it, you may miss more; the existence of "ClipHive" is to solve this problem for you; in Here, you can browse the crystallization of all kinds of wisdom in the world;
 while enriching your vision, you can mark or share your favorite sites, so as to provide constructive reference for more people who dig information. </p>
   <p align="center">
