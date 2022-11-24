@@ -6,10 +6,10 @@ body:
       value: |
          Please check if your recommend tools exists or not, you can search on  [cliphive.tk](https://cliphive.tk).
   - type: input
-    id: os
+    id: link
     attributes:
-      label: Operating system
-      description: "Which operating system do you use? Please provide the version as well."
+      label: Link /URL
+      description: You must put up a link to your recommended resource or tool; if no link is provided, we may close it.
       placeholder: "macOS Big Sur 11.5.2"
     validations:
       required: true  
