@@ -2,7 +2,7 @@
   {
     "name": "Search",
     "icon": "https://cdn.iconscout.com/icon/free/png-256/search-1404496-1187757.png",
-    "placeholder": "Site Search",
+    "placeholder": "Discover tool (link, description, category, etc.)",
     "blocked": false,
     "isInner": true
   },
