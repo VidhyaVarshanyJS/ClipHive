@@ -56,7 +56,7 @@
     }
   ],
   "showLanguage": false,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": [
     {
       "url": "https://forms.gle/sL6pavcMoLXGffZE6",
