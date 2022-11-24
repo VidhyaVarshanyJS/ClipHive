@@ -37,7 +37,7 @@ In an effort to benefit as many people as possible, we have catalogued, indexed,
 
 ### Mission
 
-To make this journey of archiving resources a long lastiing one and to be accessible by anyone
+To make this journey of archiving resources a long lasting one and accessible by anyone
 
 
 ### Guidelines
@@ -53,11 +53,11 @@ There are only a few basic guidelines that must be followed for this endeavor:
 
 
 
-Thank you for your [contribution](https://github.com/vidhyavarshanyjs/Cliphive/issues) or [form](https://docs.google.com/forms/d/e/1FAIpQLSdJqjjb-8O2h6Dvi1VoXOWcrXHT0HcxE0Y96PKpyuGd9-6Bqw/viewform)
+Thank you for your [contribution](https://github.com/VidhyaVarshanyJS/ClipHive/issues/new/choose) or [form](https://docs.google.com/forms/d/e/1FAIpQLSdJqjjb-8O2h6Dvi1VoXOWcrXHT0HcxE0Y96PKpyuGd9-6Bqw/viewform)
 
 
 ### Suggest
-If you have any functional suggestions, you can initiate an [issue](https://github.com/vidhyavarshanyjs/Cliphive/issues), Thank you.
+If you have any functional suggestions, you can initiate an [issue](https://github.com/VidhyaVarshanyJS/ClipHive/issues/new/choose), Thank you.
 
 
 ### LICENSE
