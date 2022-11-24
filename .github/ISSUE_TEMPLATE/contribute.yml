@@ -10,17 +10,17 @@ body:
     attributes:
       label: Link /URL
       description: You must put up a link to your recommended resource or tool; if no link is provided, we may close it.
-      placeholder: "macOS Big Sur 11.5.2"
+      placeholder: https://cliphive.tk
     validations:
       required: true  
   - type: input
-    id: laravel
+    id: link
     attributes:
-      label: Laravel Version
-      description: "Please provide the full Laravel version of your project."
-      placeholder: "v8.6.1"
+      label: GitHub Source link / Any other alternative 
+      description: You can provide canonical links /alternative domain link /Project Source link for the resoource if available
+      placeholder: https://github.com/VidhyaVarshanyJS/ClipHive
     validations:
-      required: true
+      required: false
   - type: input
     id: php
     attributes:
