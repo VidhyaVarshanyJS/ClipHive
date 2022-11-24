@@ -1,7 +1,7 @@
 [
   {
     "name": "Search",
-    "icon": "https://cdn.iconscout.com/icon/free/png-256/search-1404496-1187757.png",
+    "icon": "https://user-images.githubusercontent.com/76642252/203833340-d1bf4126-10ed-43cd-bcb4-54a3f6bdb4ee.png",
     "placeholder": "Discover tool (link, description, category, etc.)",
     "blocked": false,
     "isInner": true
