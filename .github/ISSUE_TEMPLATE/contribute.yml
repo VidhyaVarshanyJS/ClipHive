@@ -22,8 +22,12 @@ body:
     validations:
       required: false
   - type: textarea
-    id: steps
+    id: description
     attributes:
-      label: Steps to reproduce
-      description: Which steps do we need to take to reproduce this error?
+      label: Description
+      description: Describe about the site niche or its purpose.If no description is provided we might close it.
+      placeholder: This Website lets you to ...
+    validations:
+      required: true
+
 
