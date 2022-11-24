@@ -1,14 +1,10 @@
-name: Bug
-description: File a bug report
+name: Contribute Resources
+description: Add your tools name ,link & description here.
 body:
   - type: markdown
     attributes:
       value: |
-        Before opening a bug report, please search for the behaviour in the existing issues. 
-        
-        ---
-        
-        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+         Please check if your recommend tools exists or not, you can search on  [cliphive.tk](https://cliphive.tk).
   - type: input
     id: os
     attributes:
