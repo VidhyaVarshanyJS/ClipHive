@@ -14,7 +14,7 @@ body:
     validations:
       required: true  
   - type: input
-    id: link
+    id: aliaslink
     attributes:
       label: GitHub Source link / Any other alternative 
       description: You can provide canonical links /alternative domain link /Project Source link for the resoource if available
