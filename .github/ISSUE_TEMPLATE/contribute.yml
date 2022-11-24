@@ -1,5 +1,6 @@
 name: Contribute Resources
 description: Add your tools name ,link & description here.
+labels: ["tools"]
 body:
   - type: markdown
     attributes:
