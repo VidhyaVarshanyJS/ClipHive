@@ -46,7 +46,7 @@
   ],
   "sideThemeHeight": 314,
   "sideThemeAutoplay": true,
-  "shortcutThemeShowWeather": true,
+  "shortcutThemeShowWeather": false,
   "shortcutThemeImages": [
     {
       "src": "https://w.wallhaven.cc/full/k7/wallhaven-k7k72m.jpg",
